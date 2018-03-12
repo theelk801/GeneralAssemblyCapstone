@@ -41,7 +41,7 @@ GM7#11 | G/F# | Em7 | Em7/D |
 Abm7b5/Db Db7#9 | / G7 | Gb69 | F7 | 
 Gb69 | Db7b9/Gb | Gb69 | Db7b9/Gb | 
 Gb69 | Eb7b9 | DM7 | Ab7#5 | 
-GM7#11 | G/F# | Em7 | Em7/d | 
+GM7#11 | G/F# | Em7 | Em7/D | 
 Abm7b5/Db Db7#9 | / G7 | Gb69 | Dbm7 | 
 CM7 E7 | Am7 | FM7 | E7 | 
 Dm7 | G7 | C69 | Bm7b5 Bb7 | 

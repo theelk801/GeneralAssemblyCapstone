@@ -42,7 +42,7 @@ Fm7 | D7 | Gm7 | / |
 Cm7 | F7sus F7 / | BbM7 | Gm7 | 
 Cm7 | G7+ | Gm7 | C9 | 
 Fm7 | Bb7 | Eb6 | Gm7/D | 
-Cm7 | Cm7/bb | Am7b5 | Abo7 | 
+Cm7 | Cm7/Bb | Am7b5 | Abo7 | 
 Eb/G | Gbo7 | Bb7/F | Eo7 | 
 Fm7 | Bb7 | Eb6 | / | 
 
