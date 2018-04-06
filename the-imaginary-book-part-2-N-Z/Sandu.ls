@@ -32,7 +32,7 @@
 
 Eb7 | Ab7 | Eb7 | / | 
 Ab7 | / | Eb7 | / | 
-NC BbBass NC BbBass | NC BbBass NC | Eb NC / / Fm7 / / E7#9 | NC | 
+NC BbBass NC BbBass | NC BbBass NC BbBass | Eb NC / / Fm7 / / E7#9 | NC | 
 
 (part
     (type melody)

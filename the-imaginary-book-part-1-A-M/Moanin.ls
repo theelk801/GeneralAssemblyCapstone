@@ -38,8 +38,8 @@
 NC / / / Bb/F / / F | NC | / / / / Bb/F / / F | NC | 
 / / / / Bb/F / / F | NC | / / / / Bb/F / / F | NC | 
 / / / / Bb/F / / F | NC | / / / / Bb/F / / F | NC | 
-/ / / / Bb/F / / F | NC | / / / / Bb/F / / F | / Cm7b5 F7b9 | 
-Bbm7 Ab9 | G7b9 C7#9 | Gm7 | / F B9 | 
+/ / / / Bb/F / / F | NC | / / / / Bb/F / / F | Cm7b5 F7b9 | 
+Bbm7 Ab9 | G7b9 C7#9 | Gm7 | F B9 | 
 Bbm7 Ab9 | G7b9 | Gm7 | C7 | 
 / / / / Bb/F / / F | NC | / / / / Bb/F / / F | NC | 
 / / / / Bb/F / / F | NC | / / / / Bb/F / / F | NC | 
